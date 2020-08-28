@@ -1,3 +1,3 @@
-# Hour_Score_GRIP1
+# GRIP
 
 Contains all files of GRIP
